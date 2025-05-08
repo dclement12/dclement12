@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, soy David</h1>
-<h3 align="center">Soy estudiante en el Instituto Atenea, y estoy aplicando a una beca para ingenieria en sowftwares</h3>
 
 - 🌱 I’m currently learning **Angular, Python, Javascript**
 
